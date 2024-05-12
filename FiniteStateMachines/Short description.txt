@@ -1,0 +1,13 @@
+Assignment on FSM
+Done by Igor Sorogovecs
+
+This app simulates basic AI of grass, sheep and wolves using FSM (finite state machines)
+
+
+Grass is growing and spreading when it reaches certain size
+
+Sheep is wandering around looking for grass, creates more sheep after eating enough grass and actively escapes wolves
+
+Wolf is looking for sheep to eat and creates more wolves upon eatin enough sheep
+
+Number on entities shows their life value (if it reaches 0 entity dies)
