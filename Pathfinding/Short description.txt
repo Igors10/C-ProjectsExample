@@ -1,0 +1,5 @@
+Assignment on A*
+Done by Igor Sorogovecs
+
+This app simulates a "starcather" going around moons surface collecting fallen stars and bringing them to a tradepost to sell. 
+Starcatcher is finding his way to a star or another given destination on a tile based grid using A* pathfinding algorithm.
